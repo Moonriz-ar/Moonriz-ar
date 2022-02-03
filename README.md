@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Leandro Cheng travel blog](https://github.com/Moonriz-ar/leandro-cheng)
 
-- 🌱 I’m currently learning **Next.js and Tailwind**
+- 🌱 I’m currently learning **React and Tailwind**
 
 - 📫 How to reach me **andre93_lin@hotmail.com**
 
