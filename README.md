@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea Lin</h1>
 <h3 align="center">A lifelong learner junior frontend developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on [Leandro Cheng travel blog](https://github.com/Moonriz-ar/leandro-cheng)
+- 🔭 I’m currently working on [Alkemy Challenge React](https://github.com/Moonriz-ar/alkemy-challenge-react)
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **andre93_lin@hotmail.com**
+- 📫 Reach me by email: **andre93_lin@hotmail.com**
 
 - ⚡ Fun fact **I like to cook (Taiwanese, Korean and Argentinean food!) and play card games. Lately been obsessed with Monster Hunter Rise.**
 
