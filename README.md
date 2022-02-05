@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Lin</h1>
-<h3 align="center">A lifelong learner junior frontend developer from Buenos Aires, Argentina</h3>
+<h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working on [Alkemy Challenge React](https://github.com/Moonriz-ar/alkemy-challenge-react)
 
