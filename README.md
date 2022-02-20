@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrea Lin</h1>
 <h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
 
+<p>I have experience as sales in IT industry for 7+ years, I am a team player and have solid communication skills. Since December 2020, I have started the journey to learn programming, through self learning resources such as FreeCodeCamp, The Odin Project and FullStackOpen. Also, since May 2021, I am a scholarship student in a Full-Stack program called Certified Tech Developer, which is taught by Digital House and endorsed by MercadoLibre and Globant. The graduation date is set to be December 2023.</p>
+
 - 🔭 I’m currently working on [Alkemy Challenge React](https://github.com/Moonriz-ar/alkemy-challenge-react)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 Reach me by email: **andre93_lin@hotmail.com**
 
-- ⚡ Fun fact **I like to cook (Taiwanese, Korean and Argentinean food!) and play card games. Lately been obsessed with Monster Hunter Rise.**
+- ⚡ Fun fact **I like to cook (Taiwanese, Korean and Argentinean food!) and play card games. Lately been obsessed with Monster Hunter Rise and Lost Ark.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
