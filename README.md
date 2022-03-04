@@ -2,9 +2,9 @@
 <h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
 
 <br>
-<p>I graduated in 2015 with the Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, and currently working in a bank. During this experience I have learned about team work and communication skills.
+<p>I graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, and currently working as a bilingual greeter in a bank. During this experience I have learned about team work and communication skills.
   
-Since December 2020, I have started the journey to learn programming, through self learning resources such as FreeCodeCamp, The Odin Project and FullStackOpen. Also, since May 2021, I am a scholarship student in a Full-Stack program called Certified Tech Developer, which is taught by Digital House and endorsed by MercadoLibre and Globant. The graduation date is set to be December 2023.</p>
+Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses, The Odin Project and FullStackOpen. Also, since May 2021, I am a scholarship student in a Full-Stack program called Certified Tech Developer in Digital House. The graduation date is set to be on December 2023.</p>
 <br>
 
 - 🔭 I’m currently working on [Alkemy Challenge React](https://github.com/Moonriz-ar/alkemy-challenge-react)
