@@ -11,7 +11,7 @@
 
 - 📫 Reach me by email: **andre93_lin@hotmail.com**
 
-- ⚡ Fun fact **I like to cook (Taiwanese, Korean and Argentinean food!) and play card games. Lately been obsessed with Monster Hunter Rise and Lost Ark.**
+- ⚡ Fun fact **I like to cook (Taiwanese and Korean food!) and play card games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
