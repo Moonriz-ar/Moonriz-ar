@@ -9,7 +9,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 🔭 I’m currently working on [Alkemy Challenge React](https://github.com/Moonriz-ar/alkemy-challenge-react)
 
-- 🌱 I’m currently self learning **React**
+- 🌱 I’m currently learning **React**
 
 - 📚 In Certified Tech Developer I'm currently in **4th bimester, learning Front End II and Infraestructure I**
 
