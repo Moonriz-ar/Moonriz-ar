@@ -13,7 +13,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 📚 In Certified Tech Developer I'm currently in **4th bimester, learning Front End II and Infraestructure I**
 
-- 🌟 Wishlist **TypeScript** **React Native**
+- 🌟 Wishlist **TypeScript**, **React Native**
 
 - 📫 Reach me by email: **andre93_lin@hotmail.com**
 
