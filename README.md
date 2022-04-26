@@ -17,7 +17,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 📫 Reach me by email: **andre93_lin@hotmail.com**
 
-- ⚡ Fun fact **I like to cook (Taiwanese and Korean food!) and play card games.**
+- ⚡ In my free time... **I like to cook (Taiwanese and Korean food!) and play games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
