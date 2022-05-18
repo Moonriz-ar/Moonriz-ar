@@ -9,7 +9,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 🌱 I’m currently learning **React**
 
-- 📚 In Certified Tech Developer I'm currently in **4th bimester, learning Backend and UI/UX**
+- 📚 In Certified Tech Developer I'm currently in **5th bimester, learning Backend and UI/UX**
 
 - 🌟 Wishlist **TypeScript**, **React Native**
 
