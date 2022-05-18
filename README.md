@@ -2,16 +2,14 @@
 <h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
 
 <br>
-<p>I graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, and currently working as a bilingual greeter in a bank. During this experience I have learned about team work and communication skills.
+<p>I graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, during this experience I have learned about team work and communication skills. Currently working in a startup as a jr front end developer.
   
 Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses, The Odin Project and FullStackOpen. Also, since May 2021, I am a scholarship student in a Full-Stack program called Certified Tech Developer in Digital House. The graduation date is set to be on December 2023.</p>
 <br>
 
-- 🔭 I’m currently working on [Alkemy Skill Up React II - go-scrum](https://github.com/Moonriz-ar/go-scrum)
-
 - 🌱 I’m currently learning **React**
 
-- 📚 In Certified Tech Developer I'm currently in **4th bimester, learning Front End II and Infraestructure I**
+- 📚 In Certified Tech Developer I'm currently in **4th bimester, learning Backend and UI/UX**
 
 - 🌟 Wishlist **TypeScript**, **React Native**
 
