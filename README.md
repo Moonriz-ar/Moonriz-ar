@@ -7,7 +7,7 @@
 Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses, The Odin Project and FullStackOpen. Also, since May 2021, I am a student in a Full-Stack program called Certified Tech Developer in Digital House. The graduation date is set to be on December 2023.</p>
 <br>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend - Node, Express, MongoDB**
 
 - 📚 In Certified Tech Developer I'm currently in **5th bimester, learning Backend and UI/UX**
 
