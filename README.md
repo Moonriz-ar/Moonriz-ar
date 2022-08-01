@@ -9,7 +9,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 🌱 I’m currently learning **Backend: Node, Express, MongoDB**
 
-- 📚 In Certified Tech Developer I'm currently in **6th bimester, learning Frontend III and Infrastructure II**
+- 📚 In Certified Tech Developer I'm currently in **6th bimester, learning Frontend III**
 
 - 🌟 Wishlist **TypeScript**, **Cloud**
 
