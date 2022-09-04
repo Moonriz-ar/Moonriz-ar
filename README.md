@@ -2,7 +2,8 @@
 <h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
 
 <br>
-<p>Graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, during which I have learned about team work and communication skills. Currently working at OverlayOn as a Jr Frontend Developer, building tools to make streamers life easier 🎮
+<p>
+Graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, during which I have learned about team work and communication skills.
   
 Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses, The Odin Project and FullStackOpen. Also, since May 2021, I am a student in Certified Tech Developer program at Digital House. The graduation date is set to be on December 2023.</p>
 <br>
@@ -11,7 +12,7 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 📚 In Certified Tech Developer I'm currently in **6th bimester, learning Frontend III**
 
-- 🌟 Wishlist **TypeScript**, **Cloud**
+- 🌟 Wishlist **TypeScript**
 
 - 📫 Reach me by email: **andre93_lin@hotmail.com**
 
@@ -29,6 +30,6 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - Foundational: HTML | CSS | Javascript | Git
 
-- Frameworks: React | Redux | Material UI | Styled Components
+- Frameworks & Libraries: React | Redux | Material UI | Styled Components
 
 - Languages: English | Spanish | Mandarin Chinese
