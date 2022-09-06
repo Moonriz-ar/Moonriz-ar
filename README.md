@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea Lin</h1>
-<h3 align="center">A junior frontend developer from Buenos Aires, Argentina</h3>
+<h3 align="center">Frontend developer from Buenos Aires, Argentina</h3>
 
 <br>
-<p>
-Graduated in 2015 with Finance and International Business degree in Fu Jen Catholic University (Taiwan). I have 7 years of work experience as sales professional in IT industry, during which I have learned about team work and communication skills.
-  
+<p>  
 Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses, The Odin Project and FullStackOpen. Also, since May 2021, I am a student in Certified Tech Developer program at Digital House. The graduation date is set to be on December 2023.</p>
 <br>
 
