@@ -12,8 +12,6 @@ Since December 2020, I have started the journey to learn programming, through se
 
 - 🌟 Wishlist **Cloud, Backend: Node, Express, MongoDB**
 
-- 📫 Reach me by email: **andre93.lin@gmail.com**
-
 - ⚡ In my free time... **I like to cook (Taiwanese and Korean food!) and play games.**
 
 <br>
