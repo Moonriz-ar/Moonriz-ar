@@ -3,12 +3,10 @@
 
 <br>
 <p>  
-Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses and The Odin Project. Also, since May 2021, I am a student in Certified Tech Developer program at Digital House. The graduation date is set to be on December 2023.</p>
+Since December 2020, I have started the journey to learn programming, through self learning resources such as Udemy courses and The Odin Project. Also, between May 2021 and December 2022, I have been student in Certified Tech Developer program at Digital House.</p>
 <br>
 
 - 🌱 I’m currently learning **Golang**
-
-- 📚 In Certified Tech Developer I'm currently in **7th bimester, learning Proyecto Integrador (Final Group Project)**
 
 - 🌟 Wishlist **Docker | Kubernetes | MySQL**
 
